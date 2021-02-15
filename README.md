@@ -1,0 +1,2 @@
+# Web-based-COVID-19-App
+The goal of Project #04 is to extend an existing web app that retrieves information about COVID 19 mitigation measures as well as the numbers across USA.  A working application is provided that does 3 things:  1. Tests the database connection 2. Retrieves information about the regions which have been affected by COVID 19 3. Analyses the database to form meaningful graphs regarding COVID data up until April 1st week 4.
